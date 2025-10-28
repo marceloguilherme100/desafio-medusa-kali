@@ -48,26 +48,26 @@ hydra -l admin -P wordlists/simples_passwords.txt 192.168.1.16 http-post-form "/
 
 **1️⃣ Resultado do Nmap**  
 <p align="center">
-  <img src="images/imagem1.PNG" alt="Nmap scan" width="600"/>
+  <img src="imagens/imagem1.PNG" alt="Nmap scan" width="600"/>
 </p>
 
 **2️⃣ Medusa – FTP**  
 <p align="center">
-  <img src="images/imagem2.png" alt="Medusa FTP" width="600"/>
+  <img src="imagens/imagem2.png" alt="Medusa FTP" width="600"/>
 </p>
 
 **3️⃣ DVWA – Login**  
 <p align="center">
-  <img src="images/imagem3.png" alt="DVWA login" width="600"/>
+  <img src="imagens/imagem3.png" alt="DVWA login" width="600"/>
 </p>
 
 **4️⃣ Teste adicional**  
 <p align="center">
-  <img src="images/imagem4.png" alt="Teste" width="600"/>
+  <img src="imagens/imagem4.png" alt="Teste" width="600"/>
 </p>
 
 **5️⃣ Outra captura**  
 <p align="center">
-  <img src="images/imagem5.png" alt="Outra captura" width="600"/>
+  <img src="imagens/imagem5.png" alt="Outra captura" width="600"/>
 </p>
 
