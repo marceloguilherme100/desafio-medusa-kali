@@ -1,8 +1,6 @@
 # Projeto: Ataques de Força Bruta com Medusa (Kali + Metasploitable2/DVWA)
 
-> Conteúdo pronto para você subir no GitHub. Dentro deste documento há os arquivos do repositório (README.md, wordlists básicas, scripts e relatório) prontos para copiar e colar nos ficheiros do seu repositório.
 
----
 
 ## Estrutura de arquivos (já preparadas abaixo)
 
@@ -81,23 +79,8 @@ medusa -h 192.168.1.16 -u msfadmin -P wordlists/simples_passwords.txt -M ftp -t 
 medusa -h 192.168.1.16 -U wordlists/simples_usernames.txt -P wordlists/simples_passwords.txt -M smb -t 8 -f -o medusa_smb_results.txt
 ```
 
-## Como subir para o GitHub
 
-1. Crie o repositório no GitHub (ex.: `desafio-medusa-kali`).
-2. No seu diretório local:
 
-```bash
-git init
-git add .
-git commit -m "Desafio Medusa - submissão inicial"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/desafio-medusa-kali.git
-git push -u origin main
-```
-
-## Evidências
-
-Coloque capturas de tela em `images/` com nomes claros (ex.: `nmap.png`, `medusa_ftp.png`). Inclua também `pcap` se usar Wireshark.
 
 ## Resultado e recomendações
 
@@ -266,13 +249,4 @@ medusa -h 192.168.1.16 -U wordlists/simples_usernames.txt -P wordlists/simples_p
 
 ---
 
-## Instruções finais
 
-1. Copie os arquivos gerados acima para a pasta do repositório local (`desafio-medusa-kali`).
-2. Adicione suas screenshots reais em `images/` (nmap, medusa, smb, dvwa).
-3. Atualize `relatorio.md` com os resultados reais (credenciais encontradas, timestamps, prints).
-4. Suba para o GitHub com os comandos de `README.md`.
-
----
-
-Se quiser, eu já gero o `README.md` e os scripts também em formato separado (pronto para download). Diga se quer que eu inclua os **IPs reais** das suas VMs (me passe) e eu atualizo os arquivos para você.
