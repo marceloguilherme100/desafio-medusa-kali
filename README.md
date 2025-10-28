@@ -47,23 +47,23 @@ hydra -l admin -P wordlists/simples_passwords.txt 192.168.1.16 http-post-form "/
 ## Evidências
 
 ### 1) Resultado do Nmap
-![Nmap scan](imagem1.PNG)
+![Nmap scan](imagens/imagem1.PNG)
 *Figura 1 — Resultado do Nmap mostrando portas abertas.*
 
 ### 2) Medusa – FTP
-![Medusa FTP](imagem2.PNG)
+![Medusa FTP](imagens/imagem2.PNG)
 *Figura 2 — Medusa encontrou credenciais válidas para FTP.*
 
 ### 3) DVWA – Login
-![DVWA login](imagem3.PNG)
+![DVWA login](imagens/imagem3.PNG)
 *Figura 3 — Tela de login do DVWA usada para testes.*
 
 ### 4) Teste
-![Teste](imagem4.PNG)
+![Teste](imagens/imagem4.PNG)
 *Figura 4 — Descrição do teste.*
 
 ### 5) Outra captura
-![Capture 5](imagem5.PNG)
+![Capture 5](imagens/imagem5.PNG)
 *Figura 5 — Outra captura.*
 
 
