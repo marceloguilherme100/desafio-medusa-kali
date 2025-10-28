@@ -44,11 +44,14 @@ hydra -l admin -P wordlists/simples_passwords.txt 192.168.1.16 http-post-form "/
 
 Imagens do Projeto
 
-![Página Inicial 1](https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem1.PNG)
-![Página Inicial 2](https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem2.PNG)
-![Página Inicial 3](https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem3.PNG)
-![Página Inicial 4](https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem4.PNG)
-![Página Inicial 5](https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem5.PNG)
+<p align="center">
+  <img src="https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem1.PNG" width="170" alt="Página Inicial 1">
+  <img src="https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem2.PNG" width="170" alt="Página Inicial 2">
+  <img src="https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem3.PNG" width="170" alt="Página Inicial 3">
+  <img src="https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem4.PNG" width="170" alt="Página Inicial 4">
+  <img src="https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem5.PNG" width="170" alt="Página Inicial 5">
+</p>
+
 
 
 
