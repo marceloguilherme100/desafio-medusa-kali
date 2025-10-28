@@ -42,6 +42,26 @@ medusa -h 192.168.1.16 -U wordlists/simples_usernames.txt -P wordlists/simples_p
 
 hydra -l admin -P wordlists/simples_passwords.txt 192.168.1.16 http-post-form "/dvwa/login.php:username=^USER^&password=^PASS^&Login=Login:F=incorrect"
 
-Imagens / Evidências
 
+## Evidências
+
+### 1) Resultado do Nmap
+![Nmap scan](imagem1.PNG)
+*Figura 1 — Resultado do Nmap mostrando portas abertas.*
+
+### 2) Medusa – FTP
+![Medusa FTP](imagem2.PNG)
+*Figura 2 — Medusa encontrou credenciais válidas para FTP.*
+
+### 3) DVWA – Login
+![DVWA login](imagem3.PNG)
+*Figura 3 — Tela de login do DVWA usada para testes.*
+
+
+### 4) Teste
+!(imagem4.PNG)
+
+
+### 5
+![DVWA login](imagem5.PNG)
 
