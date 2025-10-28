@@ -44,26 +44,14 @@ hydra -l admin -P wordlists/simples_passwords.txt 192.168.1.16 http-post-form "/
 
 
 
-## Evidências
-
-### 1) Resultado do Nmap
-![Nmap scan](imagens/imagem1.PNG)
-*Figura 1 — Resultado do Nmap mostrando portas abertas.*
-
-### 2) Medusa – FTP
-![Medusa FTP](imagens/imagem2.PNG)
-*Figura 2 — Medusa encontrou credenciais válidas para FTP.*
-
-### 3) DVWA – Login
-![DVWA login](imagens/imagem3.PNG)
-*Figura 3 — Tela de login do DVWA usada para testes.*
-
-### 4) Teste
-![Teste](imagens/imagem4.PNG)
-*Figura 4 — Descrição do teste.*
-
-### 5) Outra captura
-![Capture 5](imagens/imagem5.PNG)
-*Figura 5 — Outra captura.*
-
-
+🧩 Evidências
+1️⃣ Resultado do Nmap
+<p align="center"> <img src="imagens/imagem1.png" alt="Nmap scan" width="600px" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);"/> <br> <em>Figura 1 — Resultado do Nmap mostrando portas abertas.</em> </p>
+2️⃣ Medusa – FTP
+<p align="center"> <img src="imagens/imagem2.png" alt="Medusa FTP" width="600px" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);"/> <br> <em>Figura 2 — Medusa encontrou credenciais válidas para FTP.</em> </p>
+3️⃣ DVWA – Login
+<p align="center"> <img src="imagens/imagem3.png" alt="DVWA login" width="600px" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);"/> <br> <em>Figura 3 — Tela de login do DVWA usada para testes.</em> </p>
+4️⃣ Teste adicional
+<p align="center"> <img src="imagens/imagem4.png" alt="Teste" width="600px" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);"/> <br> <em>Figura 4 — Descrição do teste.</em> </p>
+5️⃣ Outra captura
+<p align="center"> <img src="imagens/imagem5.png" alt="Outra captura" width="600px" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);"/> <br> <em>Figura 5 — Outra captura relevante.</em> </p>
