@@ -44,15 +44,13 @@ hydra -l admin -P wordlists/simples_passwords.txt 192.168.1.16 http-post-form "/
 
 Imagens do Projeto
 
-<div style="display: flex; gap: 10px;">
-  <img src="./imagem1.PNG" alt="Página Inicial" width="170" height="auto">
-  <img src="./imagem2.PNG" alt="Página Inicial" width="170" height="auto">
-  <img src="./imagem3.PNG" alt="Página Inicial" width="170" height="auto">
-  <img src="./imagem4.PNG" alt="Página Inicial" width="170" height="auto">
-  <img src="./imagem5.PNG" alt="Página Inicial" width="170" height="auto">
-  
-</div>
-
+<p align="center">
+  <img src="./imagem1.PNG" alt="Página Inicial 1" width="170">
+  <img src="./imagem2.PNG" alt="Página Inicial 2" width="170">
+  <img src="./imagem3.PNG" alt="Página Inicial 3" width="170">
+  <img src="./imagem4.PNG" alt="Página Inicial 4" width="170">
+  <img src="./imagem5.PNG" alt="Página Inicial 5" width="170">
+</p>
 
 
 
