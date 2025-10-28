@@ -46,6 +46,13 @@ Imagens do Projeto
 
 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem1.PNG" width="170" alt="Página Inicial 1"> <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem2.png" width="170" alt="Página Inicial 2"> <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem3.png" width="170" alt="Página Inicial 3"> <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem4.png" width="170" alt="Página Inicial 4"> <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem5.png" width="170" alt="Página Inicial 5"> </p> ```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem1.PNG" width="170" alt="Página Inicial 1">
+  <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem2.png" width="170" alt="Página Inicial 2">
+  <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem3.png" width="170" alt="Página Inicial 3">
+  <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem4.png" width="170" alt="Página Inicial 4">
+  <img src="https://raw.githubusercontent.com/marceloguilherme100/desafio-medusa-kali/main/imagem5.png" width="170" alt="Página Inicial 5">
+</p>
+
 
 
