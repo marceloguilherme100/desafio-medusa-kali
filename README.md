@@ -44,13 +44,11 @@ hydra -l admin -P wordlists/simples_passwords.txt 192.168.1.16 http-post-form "/
 
 Imagens do Projeto
 
-<p align="center">
-  <img src="./imagem1.PNG" alt="Página Inicial 1" width="170">
-  <img src="./imagem2.PNG" alt="Página Inicial 2" width="170">
-  <img src="./imagem3.PNG" alt="Página Inicial 3" width="170">
-  <img src="./imagem4.PNG" alt="Página Inicial 4" width="170">
-  <img src="./imagem5.PNG" alt="Página Inicial 5" width="170">
-</p>
+![Página Inicial 1](https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem1.PNG)
+![Página Inicial 2](https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem2.PNG)
+![Página Inicial 3](https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem3.PNG)
+![Página Inicial 4](https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem4.PNG)
+![Página Inicial 5](https://github.com/marceloguilherme100/desafio-medusa-kali/raw/main/imagem5.PNG)
 
 
 
